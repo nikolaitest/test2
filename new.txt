@@ -23,6 +23,6 @@ echo 'sidebar';
 
 </div>
 <div id="footer"></div>
-<div>עüאÿמםעüאÿמגםüאÿמגםüאÿמ</div>
+<div>2452345345325</div>
 <div>ASDAdaAASDas</div>
 </div>
