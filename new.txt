@@ -1,5 +1,5 @@
 <?php
-echo 'a1';
+/*echo 'a1';
 echo 'b2';
 echo 'c3';
 echo 'd4';
@@ -11,4 +11,14 @@ echo 'sidebar';
 	<div id="ads1">2</div>
 	<div id="latest1">3</div>
 	<div>asdfasd</div>
+</div>*/
+
+
+<div id="sidebar1">
+	<div id="ads">1</div>
+	<div id="latest">2</div>
+	<div id="ads1">2</div>
+	<div id="latest1">3</div>
+	<div>asdfasd</div>
 </div>
+
