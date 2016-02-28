@@ -3,4 +3,6 @@ echo 'a1';
 echo 'b2';
 echo 'c3';
 echo 'd4';
+
 ?>
+<div id="sidebar"></div>
