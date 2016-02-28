@@ -10,4 +10,5 @@ echo 'sidebar';
 	<div id="latest">2</div>
 	<div id="ads1">2</div>
 	<div id="latest1">3</div>
+	<div>asdfasd</div>
 </div>
