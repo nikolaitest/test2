@@ -8,4 +8,6 @@ echo 'sidebar';
 <div id="sidebar">
 	<div id="ads">1</div>
 	<div id="latest">2</div>
+	<div id="ads1">2</div>
+	<div id="latest1">3</div>
 </div>
