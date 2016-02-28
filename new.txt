@@ -1,5 +1,6 @@
 <?php
-echo 'a';
-echo 'b';
-echo 'c';
+echo 'a1';
+echo 'b2';
+echo 'c3';
+echo 'd4';
 ?>
