@@ -23,4 +23,5 @@ echo 'sidebar';
 
 </div>
 <div id="footer"></div>
+<div>עüאÿמםעüאÿמגםüאÿמגםüאÿמ</div>
 </div>
